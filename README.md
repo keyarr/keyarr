@@ -1,16 +1,22 @@
-## Hi there 👋
+# `keyar`
 
-<!--
-**keyarr/keyarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make computers do things they probably shouldn't.
 
-Here are some ideas to get you started:
+Mostly interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Android internals
+* Linux
+* security
+* reverse engineering
+* automation
+* making proprietary software slightly less proprietary
+
+Currently breaking Samsung devices in increasingly reproducible ways.
+
+> Frontend died in 2006 when Wix was created.
+
+I like boring software, small dependencies, and tools that work after six months without an update.
+
+Got Linux running on a $5 TV box. It’s a server now. Good enough.
+
+If something here looks unfinished, it probably works perfectly for my use case.
