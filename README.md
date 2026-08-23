@@ -4,11 +4,7 @@ I make computers do things they probably shouldn't.
 
 Mostly interested in:
 
-Android internals
-Linux
-reverse engineering
-automation
-making proprietary software slightly less proprietary
+Android internals, Linux, reverse engineering, automation, making proprietary software slightly less proprietary
 
 Currently breaking Samsung devices in increasingly reproducible ways.
 
