@@ -1,4 +1,4 @@
-# `keyar`
+# `me`
 
 I make computers do things they probably shouldn't.
 
@@ -6,12 +6,10 @@ Mostly interested in:
 
 Android internals, Linux, reverse engineering, automation, making proprietary software slightly less proprietary
 
-If I had LinkedIn, some samsung engineer would’ve blocked me by now.
-
 Tore apart a speaker, fried part of the charging circuit. Still works. Debloated.
 
 I like boring software, small dependencies, and tools that work after six months without an update.
 
-Got linux & hermes agent running on a $5 TV box. It’s a server with my personal J.A.R.V.I.S now. Good enough.
+Got linux & hermes agent running on a rockchip 3228a 1gb ram. It’s a server with my personal J.A.R.V.I.S now. Good enough.
 
 If something here looks unfinished, it probably works perfectly for my use case.
