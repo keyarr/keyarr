@@ -13,7 +13,7 @@ Mostly interested in:
 
 Currently breaking Samsung devices in increasingly reproducible ways.
 
-I support all browsers I personally use
+Tore apart a speaker, fried part of the charging circuit. Still works. Debloated.
 
 I like boring software, small dependencies, and tools that work after six months without an update.
 
