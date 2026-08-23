@@ -13,7 +13,7 @@ Mostly interested in:
 
 Currently breaking Samsung devices in increasingly reproducible ways.
 
-> Frontend died in 2006 when Wix was created.
+I support all browsers I personally use
 
 I like boring software, small dependencies, and tools that work after six months without an update.
 
